@@ -14,13 +14,6 @@ env/
 *.swp
 *.swo
 
-# Environment variables
-# .env
-
-# Test artifacts
-screenshots/
-*.png
-
 # Pytest
 .pytest_cache/
 htmlcov/
